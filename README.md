@@ -75,7 +75,7 @@ Segurança: O aplicativo deve armazenar os dados dos usuários de forma segura e
 
 ## Considerações Adicionais
 
-O aplicativo deve ser compatível com diferentes plataformas, como Android e iOS.
+O aplicativo deve ser compatível com Android.
 O aplicativo deve ser atualizado regularmente com novas perguntas e categorias.
 O aplicativo deve oferecer suporte a diferentes idiomas.
 
